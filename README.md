@@ -27,4 +27,5 @@ Machine-learning preparation
 Can be used for segmentation, forecasting, and anomaly detection.
 
 📌 View all my Tableau presentation HERE!: https://public.tableau.com/app/profile/tran.thuong6933/viz/ABC_toys_project1_17649249940680/StoryF
+
 📌 View all my explaination HERE! https://drive.google.com/drive/folders/1I-GiRSyvC9FNxTpFroYZ189g_n3JNDEY
